@@ -19,6 +19,110 @@
 	height: 1390px;
 }
 
+.sk-asset.sk-page-navigation {
+	width: 175px;
+	height: 23px;
+	left: 728px;
+	top: 1056px;
+	background-image: url("images/page navigation.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-page-navigation {
+		background-image: url("images/page navigation@2x.png");
+		background-size: 175px 23px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-page-navigation {
+		background-image: url("images/page navigation@3x.png");
+		background-size: 175px 23px;
+	}
+}
+.sk-asset.sk-Dataset {
+	width: 920px;
+	height: 530px;
+	left: 355px;
+	top: 488px;
+	background-image: url("images/Dataset.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Dataset {
+		background-image: url("images/Dataset@2x.png");
+		background-size: 920px 530px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Dataset {
+		background-image: url("images/Dataset@3x.png");
+		background-size: 920px 530px;
+	}
+}
+.sk-asset.sk-Sort-By {
+	width: 182px;
+	height: 26px;
+	left: 1093px;
+	top: 441px;
+	background-image: url("images/Sort By.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Sort-By {
+		background-image: url("images/Sort By@2x.png");
+		background-size: 182px 26px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Sort-By {
+		background-image: url("images/Sort By@3x.png");
+		background-size: 182px 26px;
+	}
+}
+.sk-asset.sk-Filter {
+	width: 195px;
+	height: 548px;
+	left: 112px;
+	top: 470px;
+	background-image: url("images/Filter.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Filter {
+		background-image: url("images/Filter@2x.png");
+		background-size: 195px 548px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Filter {
+		background-image: url("images/Filter@3x.png");
+		background-size: 195px 548px;
+	}
+}
 .sk-asset.sk-Tissue-Arrays {
 	width: 304px;
 	height: 71px;
@@ -69,5 +173,57 @@ only screen and (min-device-pixel-ratio: 3) {
 	.sk-asset.sk-Home-Tissue-Arrays {
 		background-image: url("images/Home / Tissue Arrays@3x.png");
 		background-size: 141px 16px;
+	}
+}
+.sk-asset.sk-Navigation-No-color-1440 {
+	width: 1440px;
+	height: 190px;
+	left: 0px;
+	top: 0px;
+	background-image: url("images/Navigation/No color/1440.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Navigation-No-color-1440 {
+		background-image: url("images/Navigation/No color/1440@2x.png");
+		background-size: 1440px 190px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Navigation-No-color-1440 {
+		background-image: url("images/Navigation/No color/1440@3x.png");
+		background-size: 1440px 190px;
+	}
+}
+.sk-asset.sk-Footer-map-1440 {
+	width: 1440px;
+	height: 233px;
+	left: 0px;
+	top: 1157px;
+	background-image: url("images/Footer/map/1440.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Footer-map-1440 {
+		background-image: url("images/Footer/map/1440@2x.png");
+		background-size: 1440px 233px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Footer-map-1440 {
+		background-image: url("images/Footer/map/1440@3x.png");
+		background-size: 1440px 233px;
 	}
 }
